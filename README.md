@@ -11,6 +11,7 @@ Various business constructs will be implemented occurring in the conceptual mode
 4. Optional attribute
 5. Overlapping
 6. Multi inheritance
+ ***
  //Disjoint  Parent class Animal ,child classes Aquatic Terrestrial
  //Abstract  Parent abstract class Person ,Child classes Youtuber ,IgInfluenser ,abstract method is get income based on the number of followers
  //Polymorphic method call used in Class Person ,Youtuber,IgInfluencer
